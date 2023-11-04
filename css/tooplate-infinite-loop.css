@@ -1,10 +1,4 @@
-/*
-
-Tooplate 2117 Infinite Loop
-
-https://www.tooplate.com/view/2117-infinite-loop
-
-*/
+/* Universal Limtless LLC */
 
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900");
 
@@ -21,10 +15,39 @@ a {
   color: #38B;
 }
 
+/* .navbar-brand {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    font-size: 24px;
+    border: 2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.tm-hero-title {
+  text-align: center;
+}
+
+.tm-hero-title {
+  font-size: 160px;
+  color: #fff;
+  font-weight: 500;
+  transition: 0.5s;
+  text-align: center;
+}
+
+.tm-hero-title :hover {
+  -webkit-text-stroke: 2px #fff;
+  color: transparent;
+} */
+ 
+
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #D40;
+  color: rgb(250, 249, 249);
 }
 
 a:focus {
@@ -514,7 +537,7 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #001828;
-  background-image: url(../img/infinite-loop-03.jpg);
+  background-image: url(/img/infinite-loop-02.jpg);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
